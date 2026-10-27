@@ -2,10 +2,9 @@
 
 **PesaBridge** is an M-Pesa payment gateway API. Developers get one API key and use a simple REST API to collect payments and send payouts, without dealing with Safaricom Daraja credentials, token handling or callbacks.
 
-**Website:** https://pesabridge.obedtech.name.ng/
-**API docs:** https://pesabridge.obedtech.name.ng/docs
-**Get an API key:** https://pesabridge.obedtech.name.ng/auth
-
+- **Website:** https://pesabridge.obedtech.name.ng/
+- **API docs:** https://pesabridge.obedtech.name.ng/docs
+- **Get an API key:** https://pesabridge.obedtech.name.ng/auth
 ## What you can do
 
 - Collect M-Pesa payments with **STK Push**
